@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /luck
+
+limit:
+  minManey: 2
+  maxManey: 10
+  description: ×îÉÙ${minManey}Ôª
